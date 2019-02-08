@@ -1,5 +1,4 @@
-# FlexionMobileJava
-Java challenge for Flexion mobile 2018.
+# Java challenge code 
 The project uses the given interface to implement a billing Integration that connects to the Flexion platform.
 
 ## About the project
